@@ -7,8 +7,7 @@ I've been doing open source JavaScript for over two decades now.
 * testing <https://node-tap.org/>
 * writing code <https://github.com/sponsors/isaacs>
 * writing words (long) <https://blog.izs.me/>
-* writing words (short) <https://fosstodon.org/@isaacs>
-* you can rent my expertise <https://izs.me/hire>
+* writing words (short) <https://x.com/izs>
 
 For the last few years, I've been working my way through porting
 all of my node packages to TypeScript and shipping them as hybrid
