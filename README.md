@@ -6,8 +6,10 @@ I've been doing open source JavaScript for over two decades now.
 * Node.js <https://nodejs.org/>
 * testing <https://node-tap.org/>
 * writing code <https://github.com/sponsors/isaacs>
-* writing words (long) <https://blog.izs.me/>
-* writing words (short) <https://x.com/izs>
+* writing words
+  * long <https://blog.izs.me/>
+  * medium <https://www.reddit.com/user/isaacs_/>
+  * short <https://bsky.app/profile/isaacs.bsky.social>
 
 For the last few years, I've been working my way through porting
 all of my node packages to TypeScript and shipping them as hybrid
