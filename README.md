@@ -9,7 +9,7 @@ I've been doing open source JavaScript for over two decades now.
 * writing words
   * long <https://blog.izs.me/>
   * medium <https://www.reddit.com/user/isaacs_/>
-  * short <https://bsky.app/profile/isaacs.bsky.social>
+  * short <https://x.com/izs>
 
 For the last few years, I've been working my way through porting
 all of my node packages to TypeScript and shipping them as hybrid
